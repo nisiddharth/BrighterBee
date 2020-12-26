@@ -1,4 +1,4 @@
-# BrighterBee -by NP Devs
+# BrighterBee- by NP Devs
 
 Developing a community for learners. Made for Droidrush: Avishkar MNNIT 2k20.
 
